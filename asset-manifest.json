@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/cab2021_site/static/css/main.8925d063.chunk.css",
-    "main.js": "/cab2021_site/static/js/main.2527498f.chunk.js",
-    "main.js.map": "/cab2021_site/static/js/main.2527498f.chunk.js.map",
+    "main.css": "/cab2021_site/static/css/main.e970c383.chunk.css",
+    "main.js": "/cab2021_site/static/js/main.549eb1cc.chunk.js",
+    "main.js.map": "/cab2021_site/static/js/main.549eb1cc.chunk.js.map",
     "runtime-main.js": "/cab2021_site/static/js/runtime-main.dde43d27.js",
     "runtime-main.js.map": "/cab2021_site/static/js/runtime-main.dde43d27.js.map",
     "static/js/2.4f8c7ced.chunk.js": "/cab2021_site/static/js/2.4f8c7ced.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.389bafd5.chunk.js": "/cab2021_site/static/js/3.389bafd5.chunk.js",
     "static/js/3.389bafd5.chunk.js.map": "/cab2021_site/static/js/3.389bafd5.chunk.js.map",
     "index.html": "/cab2021_site/index.html",
-    "static/css/main.8925d063.chunk.css.map": "/cab2021_site/static/css/main.8925d063.chunk.css.map",
+    "static/css/main.e970c383.chunk.css.map": "/cab2021_site/static/css/main.e970c383.chunk.css.map",
     "static/js/2.4f8c7ced.chunk.js.LICENSE.txt": "/cab2021_site/static/js/2.4f8c7ced.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.dde43d27.js",
     "static/js/2.4f8c7ced.chunk.js",
-    "static/css/main.8925d063.chunk.css",
-    "static/js/main.2527498f.chunk.js"
+    "static/css/main.e970c383.chunk.css",
+    "static/js/main.549eb1cc.chunk.js"
   ]
 }
