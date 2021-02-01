@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/cab2021_site/static/css/main.7b4c6ea3.chunk.css",
-    "main.js": "/cab2021_site/static/js/main.b6b3d514.chunk.js",
-    "main.js.map": "/cab2021_site/static/js/main.b6b3d514.chunk.js.map",
+    "main.js": "/cab2021_site/static/js/main.bfd87445.chunk.js",
+    "main.js.map": "/cab2021_site/static/js/main.bfd87445.chunk.js.map",
     "runtime-main.js": "/cab2021_site/static/js/runtime-main.f7ecc1e5.js",
     "runtime-main.js.map": "/cab2021_site/static/js/runtime-main.f7ecc1e5.js.map",
     "static/js/2.6b64fc9b.chunk.js": "/cab2021_site/static/js/2.6b64fc9b.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.f7ecc1e5.js",
     "static/js/2.6b64fc9b.chunk.js",
     "static/css/main.7b4c6ea3.chunk.css",
-    "static/js/main.b6b3d514.chunk.js"
+    "static/js/main.bfd87445.chunk.js"
   ]
 }
